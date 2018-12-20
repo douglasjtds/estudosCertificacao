@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleApp_CSharp_Exame70.483")]
+[assembly: AssemblyTitle("certificacao-csharp-roteiro")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApp_CSharp_Exame70.483")]
+[assembly: AssemblyProduct("certificacao-csharp-roteiro")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c907eddf-27e6-4259-acc0-e969eecad08d")]
+[assembly: Guid("77a70540-3f27-46f9-bd92-c54a53195c37")]
 
 // Version information for an assembly consists of the following four values:
 //
